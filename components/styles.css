@@ -1,0 +1,7 @@
+.item {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 70vw;
+  border: 2px solid greenyellow;
+}
